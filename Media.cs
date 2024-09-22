@@ -13,10 +13,14 @@ namespace TD_librairies
         public int nombreCopies;
 
         // Afficher les informations sur les objets Media
+        // Virtual lui permet d'être surchargée dans une sous classe
         public virtual void AfficherInfos()
         {
             Console.WriteLine($"Titre: {titre}, Référence: {reference}, Nombre d'exemplaires: {nombreCopies}");
         }
+
+   
+
 
     }
 }

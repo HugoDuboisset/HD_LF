@@ -11,7 +11,7 @@ namespace TD_librairies
         public string groupe;
         public int nombreDePistes;
 
-        //Afficher les informations spécifiques au CD en plus de celles de Media
+        //Afficher les informations spécifiques aux CD en plus de celles de Media
 
         public override void AfficherInfos()
         {

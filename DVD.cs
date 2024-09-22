@@ -11,6 +11,7 @@ namespace TD_librairies
         public string realisateur;
         public float duree;
 
+        //Afficher les informations spécifiques aux DVD en plus de celles de Media
         public override void AfficherInfos()
         {
             // Appel à la méthode de la classe de base pour afficher les infos générales

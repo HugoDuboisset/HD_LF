@@ -1,0 +1,15 @@
+C:\Users\duboi\source\repos\HD_LF\bin\Debug\net6.0\TD_librairies.exe
+C:\Users\duboi\source\repos\HD_LF\bin\Debug\net6.0\TD_librairies.deps.json
+C:\Users\duboi\source\repos\HD_LF\bin\Debug\net6.0\TD_librairies.runtimeconfig.json
+C:\Users\duboi\source\repos\HD_LF\bin\Debug\net6.0\TD_librairies.dll
+C:\Users\duboi\source\repos\HD_LF\bin\Debug\net6.0\TD_librairies.pdb
+C:\Users\duboi\source\repos\HD_LF\obj\Debug\net6.0\TD_librairies.csproj.AssemblyReference.cache
+C:\Users\duboi\source\repos\HD_LF\obj\Debug\net6.0\TD_librairies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duboi\source\repos\HD_LF\obj\Debug\net6.0\TD_librairies.AssemblyInfoInputs.cache
+C:\Users\duboi\source\repos\HD_LF\obj\Debug\net6.0\TD_librairies.AssemblyInfo.cs
+C:\Users\duboi\source\repos\HD_LF\obj\Debug\net6.0\TD_librairies.csproj.CoreCompileInputs.cache
+C:\Users\duboi\source\repos\HD_LF\obj\Debug\net6.0\TD_librairies.dll
+C:\Users\duboi\source\repos\HD_LF\obj\Debug\net6.0\refint\TD_librairies.dll
+C:\Users\duboi\source\repos\HD_LF\obj\Debug\net6.0\TD_librairies.pdb
+C:\Users\duboi\source\repos\HD_LF\obj\Debug\net6.0\TD_librairies.genruntimeconfig.cache
+C:\Users\duboi\source\repos\HD_LF\obj\Debug\net6.0\ref\TD_librairies.dll
