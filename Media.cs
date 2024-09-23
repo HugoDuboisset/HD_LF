@@ -19,8 +19,6 @@ namespace TD_librairies
             Console.WriteLine($"Titre: {titre}, Référence: {reference}, Nombre d'exemplaires: {nombreCopies}");
         }
 
-   
-
 
     }
 }
